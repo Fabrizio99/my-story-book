@@ -13,7 +13,7 @@ const meta = {
   },
   argTypes: {
     label: {
-      description: "Text to display",
+      description: "Text to be displayed",
       type: "string",
     },
     size: {
