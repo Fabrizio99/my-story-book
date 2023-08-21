@@ -1,3 +1,3 @@
-const Home = () => <div>Home page</div>
+const Home = () => <div>MyStoryBook</div>;
 
-export default Home
+export default Home;
